@@ -22,6 +22,7 @@ from reader import reader
 from get_diagnostics import get_diagnostics
 from set_prefix import set_prefix
 from grid_diagnostic  import grid_diagnostic
+from Plot_tools import plot
 
 # Define what happens when someone uses
 # from matpy import *
