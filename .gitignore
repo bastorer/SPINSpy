@@ -1,15 +1,12 @@
 ## Ignore the data file for the tutorial
-rho.15
-xgrid
-ygrid
-zgrid
+Demo/Data/*
+*.swp
 
 ## Python pyc
 *.pyc
 
 ## iPython
 .ipynb_checkpoints/*
-
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
